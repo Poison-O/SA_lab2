@@ -1,0 +1,3 @@
+{
+    "files": ["polynomial_builder.py","basis.py","main.py","main_window.ui","solve.py","polynom.py"]
+}
